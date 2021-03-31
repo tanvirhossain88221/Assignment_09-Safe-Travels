@@ -1,0 +1,16 @@
+.containers{
+    background-image: url(./../../img/2705339.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 1500px;
+    
+    
+}
+.main{
+    margin: 5%;
+}
+.container{
+    /* background-color: lightgray;
+    opacity: 1; */
+}

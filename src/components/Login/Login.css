@@ -1,0 +1,42 @@
+.login-form{
+    padding-top: 50px;
+    align-items: center;
+    background-color: lightgray;
+    height: 500px;
+    
+}
+.input-box{
+    margin-top: 10px;
+    border-radius: 5px;
+    border: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.submit{
+    margin-top: 10px;
+    border-radius: 5px;
+    border: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: green;
+    color: white;
+}
+.submit-ggl{
+    margin-top: 10px;
+    border-radius: 5px;
+    border: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: blue;
+    color: white;
+}
+.check-box{
+    margin-top: 20px;
+    
+}

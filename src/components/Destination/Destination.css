@@ -1,0 +1,30 @@
+.icon{
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+    margin-left: 50px;
+}
+.icon-text{
+    margin: 10px;
+    padding-left: 10px;
+}
+.destination{
+    border: 1px solid red;
+    background-color: lightgray;
+}
+.icon-box{
+    background-color: white;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+.icon-parent{
+    background-color: lightgray;
+    padding: 10px;
+}
+.location{
+    margin: 10px;
+    padding-left: 10px;
+    background-color: navy;
+    color: white;
+    border-radius: 10px;
+}

@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "BIKE",
+        "price": "40$",
+        "image": "https://wallpapercave.com/wp/wp4366488.jpg",
+        "icon": "https://cdn.iconscout.com/icon/premium/png-256-thumb/heavy-bike-1978235-1667773.png"
+    },
+    {
+        "id": 2,
+        "name": "CAR",
+        "price": "50$",
+        "image": "https://images.pexels.com/photos/241316/pexels-photo-241316.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "icon": "https://image.flaticon.com/icons/png/512/55/55283.png"
+    },
+    {
+        "id": 3,
+        "name": "BUS",
+        "price": "10$",
+        "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8YnVzfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "icon": "https://image.shutterstock.com/image-vector/bus-icon-side-vector-600w-779694010.jpg"
+    },
+    {
+        "id": 4,
+        "name": "TRAIN",
+        "price": "30$",
+        "image": "https://i.pinimg.com/originals/18/82/6b/18826b1eef9c7a13dac74848d7c0b99a.jpg",
+        "icon": "https://cdn2.vectorstock.com/i/1000x1000/83/01/train-icon-vector-1918301.jpg"
+    }
+]
